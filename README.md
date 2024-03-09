@@ -1,1 +1,1 @@
-This protocal chatpers describe all the proctocals and their implementation, data transfer, transmission, reception, usage, state machine, CRC, stack, queue etc
+This protocal chatpers describe all the proctocals and their implementation, data transfer, transmission, reception, usage, state machine, CRC, stack, queue etc. which all are implemeting for the protocal can be view in this protocal channel
